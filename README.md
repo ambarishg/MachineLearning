@@ -7,3 +7,5 @@ Filenames and Videos description
 | 02 - LinearRegression Boston |   03 - Multiple Linear Regression and Feature Interaction in 10 minutes   | [03 - Multiple Linear Regression and Feature Interaction in 10 minutes](https://youtu.be/sCIg5Y5zoa0)       
 | - |   04 - Decision Trees [ Regression ] in 6 minutes  | [04 - Decision Trees [ Regression ] in 6 minutes](https://youtu.be/btng0BhiS6E)        
 | 03- house-sales-decision-trees |   05  - Decision Trees [ Regression ] in Python in 7 mins   | [05  - Decision Trees [ Regression ] in Python in 7 mins](https://youtu.be/qOHSbDHRVJM)        
+| - |   06 - Concept of Cross Validation in 3 minutes   | [06 - Concept of Cross Validation in 3 minutes](https://youtu.be/KoCEa0vxZxU)     
+| 04 - house-sales-regularized-linear-models.ipynb |   07 - Penalized Regression Models in 11 minutes   | [07 - Penalized Regression Models in 11 minutes](https://youtu.be/AatR5jz3KMQ)     
