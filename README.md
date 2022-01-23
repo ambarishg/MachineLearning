@@ -1,4 +1,4 @@
-Filenames and Videos description 
+![Machine Learning for Beginners](./input/ml.jpg)
 
 |  FileName  |  Description | Video    |                  
 |---|---|---|                       
