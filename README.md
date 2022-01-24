@@ -9,3 +9,4 @@
 | 03- house-sales-decision-trees |   05  - Decision Trees [ Regression ] in Python in 7 mins   | [05  - Decision Trees [ Regression ] in Python in 7 mins](https://youtu.be/qOHSbDHRVJM)        
 | - |   06 - Concept of Cross Validation in 3 minutes   | [06 - Concept of Cross Validation in 3 minutes](https://youtu.be/KoCEa0vxZxU)     
 | 04 - house-sales-regularized-linear-models.ipynb |   07 - Penalized Regression Models in 11 minutes   | [07 - Penalized Regression Models in 11 minutes](https://youtu.be/AatR5jz3KMQ)     
+| 05 -Missing Values and Linear Regression.ipynb |   08 - Handle Missing Values and Linear Regression [ Very Simple Approach ] in 6 minutes   | [08 - Handle Missing Values and Linear Regression [ Very Simple Approach ] in 6 minutes](https://youtu.be/i1I8taMabvE)    
