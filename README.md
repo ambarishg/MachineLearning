@@ -10,3 +10,5 @@
 | - |   06 - Concept of Cross Validation in 3 minutes   | [06 - Concept of Cross Validation in 3 minutes](https://youtu.be/KoCEa0vxZxU)     
 | 04 - house-sales-regularized-linear-models.ipynb |   07 - Penalized Regression Models in 11 minutes   | [07 - Penalized Regression Models in 11 minutes](https://youtu.be/AatR5jz3KMQ)     
 | 05 -Missing Values and Linear Regression.ipynb |   08 - Handle Missing Values and Linear Regression [ Very Simple Approach ] in 6 minutes   | [08 - Handle Missing Values and Linear Regression [ Very Simple Approach ] in 6 minutes](https://youtu.be/i1I8taMabvE)    
+| 06 - RandomForest.ipynb |   09 - Random Forest in 4 minutes   | [09 - Random Forest in 4 minutes](https://youtu.be/egf5QoQFVDI)       
+
