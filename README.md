@@ -13,5 +13,7 @@
 | 06 - RandomForest.ipynb |   09 - Random Forest in 4 minutes   | [09 - Random Forest in 4 minutes](https://youtu.be/egf5QoQFVDI)       
 | 07 - Categorical Variables-RandomForest.ipynb |   10 - Categorical Variables and RandomForest in 10 minutes  | [10 - Categorical Variables and RandomForest in 10 minutes](https://youtu.be/jLXgtr3jrRU)        
 | 08 - Pipelines.ipynb       
-09 - Pipelines and Random Forests.ipynb|   11 - Pipelines and Transformers in 7 minutes  | [11 - Pipelines and Transformers in 7 minutes](https://youtu.be/0nYUIMjzZ1o)               
+09 - Pipelines and Random Forests.ipynb |   11 - Pipelines and Transformers in 7 minutes  | [11 - Pipelines and Transformers in 7 minutes](https://youtu.be/0nYUIMjzZ1o)      
+|  |   12 - Boosting in 4 minutes  | [12 - Boosting in 4 minutes](https://youtu.be/fwawfUp_kYA)       
+|  |   13 - LogisticRegression and Classification in 8 minutes  | [13 - LogisticRegression and Classification in 8 minutes](https://youtu.be/s3SYWRD3i0g)            
 
