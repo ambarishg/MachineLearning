@@ -11,4 +11,7 @@
 | 04 - house-sales-regularized-linear-models.ipynb |   07 - Penalized Regression Models in 11 minutes   | [07 - Penalized Regression Models in 11 minutes](https://youtu.be/AatR5jz3KMQ)     
 | 05 -Missing Values and Linear Regression.ipynb |   08 - Handle Missing Values and Linear Regression [ Very Simple Approach ] in 6 minutes   | [08 - Handle Missing Values and Linear Regression [ Very Simple Approach ] in 6 minutes](https://youtu.be/i1I8taMabvE)    
 | 06 - RandomForest.ipynb |   09 - Random Forest in 4 minutes   | [09 - Random Forest in 4 minutes](https://youtu.be/egf5QoQFVDI)       
+| 07 - Categorical Variables-RandomForest.ipynb |   10 - Categorical Variables and RandomForest in 10 minutes  | [10 - Categorical Variables and RandomForest in 10 minutes](https://youtu.be/jLXgtr3jrRU)        
+| 08 - Pipelines.ipynb       
+09 - Pipelines and Random Forests.ipynb|   11 - Pipelines and Transformers in 7 minutes  | [11 - Pipelines and Transformers in 7 minutes](https://youtu.be/0nYUIMjzZ1o)               
 
